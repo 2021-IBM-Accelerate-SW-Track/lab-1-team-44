@@ -15,7 +15,7 @@ function App() {
 
     </div>
 
-    <div name="new-item-button">
+    <div data-testid="new-item-button">
       <button type = "button" name="new-item-button">new-item-button</button>
     </div>
 
