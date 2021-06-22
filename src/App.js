@@ -12,11 +12,13 @@ function App() {
       <form addtodo>
         <input type = "submit" value = "Submit" name="input"></input>
       </form>
-      <div data-testid="new-item-button">
-        <button type = "button" name="new-item-button">new-item-button</button>
-      </div>
 
     </div>
+
+    <div name="new-item-button">
+      <button type = "button" name="new-item-button">new-item-button</button>
+    </div>
+
     <Body/>
     </div>
   );
