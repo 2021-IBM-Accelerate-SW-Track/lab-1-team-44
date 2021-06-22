@@ -7,9 +7,9 @@ function App() {
   return (
     <div className="App">
     <Header/>
-    <form addTodo>
-      <button type = "button">new-item-button</button>
-      <input type = "submit" value = "Submit"></input>
+    <form addtodo>
+      <button type = "button" name="new-item-button">new-item-button</button>
+      <input type = "submit" value = "Submit" name="input"></input>
     </form>
     <Body/>
     </div>
