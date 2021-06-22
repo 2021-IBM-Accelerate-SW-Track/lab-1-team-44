@@ -20,6 +20,6 @@ function App() {
     <Body/>
     </div>
   );
-
+  }
 
 export default App;
