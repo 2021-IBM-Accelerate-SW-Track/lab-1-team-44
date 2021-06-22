@@ -1,3 +1,4 @@
+
 import Header from "./component/header"
 import './App.css';
 
@@ -16,7 +17,6 @@ function App() {
     <Body/>
     </div>
   );
-}
 
 
 export default App;
