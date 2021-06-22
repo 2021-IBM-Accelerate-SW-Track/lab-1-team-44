@@ -16,12 +16,11 @@ function App() {
     </div>
 
     <div data-testid="new-item-button">
-      <button type = "button" name="new-item-button">new-item-button</button>
+      <button type = "button" name="button">new-item-button</button>
     </div>
 
     <Body/>
     </div>
   );
-
 
 export default App;
