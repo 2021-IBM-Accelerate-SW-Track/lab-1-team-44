@@ -11,7 +11,9 @@ import React, { Component } from 'react';
 // }
 
 export default function Body(){
-    return <div>This is something that is different than the header</div>
+    return <div style={{color: "#FE0000"}} >
+    <h4>Get all of these <i>d o n e!</i></h4>
+    </div>
 }
 
 // export default Body;
